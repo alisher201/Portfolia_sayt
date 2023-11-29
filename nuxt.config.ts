@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: "JurayevCoder",
+      title: "Alisher",
       link: [
         {
           rel: "preconnect",
