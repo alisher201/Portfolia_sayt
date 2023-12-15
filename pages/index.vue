@@ -13,7 +13,7 @@
                     <h1 class="text-[24px] sm:text-[40px] text-white font-bold mb-3 sm:mb-5">I'm <span
                             class="text-[#FF4F00]">Full stack
                             developer</span></h1>
-                    <p class="text-white text-[14px] sm:text-[18px]">I am Muslim! I am a developer with experience in
+                    <p class="text-white text-[14px] sm:text-[18px]">I am a developer with experience in
                         building
                         websites
                         for small and medium-sized businesses. I am full stack developer with ~ 1 years of experience
@@ -159,7 +159,7 @@
             <div class="py-5">
                 <h1 class="about relative text-white text-[26px] sm:text-[30px] font-bold pb-5 mb-10">Portfolio</h1>
                 <div class="w-full flex overflow-x-scroll self-stretch gap-x-10">
-                    <div
+                    <!-- <div
                         class="relative min-w-[250px] max-w-[250px] sm:min-w-[600px] sm:max-w-[600px] bg-[#414141] rounded-lg">
                         <p
                             class="absolute p-1 sm:p-2 bg-[#414141] flex itmes-center rounded-tr-lg gap-1 sm:gap-2 top-0 right-0 text-[10px] sm:text-[16px] text-white font-bold">
@@ -176,7 +176,7 @@
                             team. We did
                             this through VueJs. I have participated in the Sta, Students, Groups, Tests
                             and Results section of the site. To enter the site: { login: alisher, password: Alisher! }</p>
-                    </div>
+                    </div> -->
 
                     <div
                         class="relative min-w-[250px] max-w-[250px] sm:min-w-[600px] sm:max-w-[600px] bg-[#414141] rounded-lg">
@@ -185,7 +185,7 @@
                             Click Me
                             <i class='bx bx-link-alt text-[14px] sm:text-[20px] text-[#FF4F00]' undefined></i>
                         </p>
-                        <a href="https://my-online-market.netlify.app/" target="_blank">
+                        <a href="https://darling-beijinho-c2a165.netlify.app" target="_blank">
                             <img src="../public/market.jpg"
                                 class="w-[250px] h-[150px] sm:w-[650px] sm:h-[300px] rounded-t-lg mb-5 object-cover" alt="">
                         </a>
@@ -224,7 +224,7 @@
                             Click Me
                             <i class='bx bx-link-alt text-[14px] sm:text-[20px] text-[#FF4F00]' undefined></i>
                         </p>
-                        <a href="https://lekisika.netlify.app/eng-uzb" target="_blank">
+                        <a href="https://zesty-genie-e5b8e9.netlify.app" target="_blank">
                             <img src="../public/leksika.jpg"
                                 class="w-[250px] h-[150px] sm:w-[650px] sm:h-[300px] rounded-t-lg mb-5 object-cover" alt="">
                         </a>
