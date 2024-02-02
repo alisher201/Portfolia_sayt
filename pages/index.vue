@@ -3,7 +3,7 @@
         <div class="container mx-auto px-5 mt-20">
             <div class="flex flex-col lg:flex-row items-center gap-y-5 sm:gap-y-20 lg:justify-between py-5">
                 <div class="img relative p-3 sm:p-5 lg:p-5">
-                    <img src="https://avatars.githubusercontent.com/u/129625436?v=4" alt=""
+                    <img src="./alisher1.jpg" alt=""
                         class="w-[250px] h-[250px] sm:w-[400px] sm:h-[400px] 2xl:w-[500px] 2xl:h-[500px]">
                 </div>
                 <div class="w-full lg:w-[50%] xl:w-[60%]">
@@ -55,7 +55,7 @@
                             class='bx bx-envelope text-[22px] sm:text-[24px] text-white'></i>ravshanovalisher76.@gmail.com</a>
                     <a href="" target=""
                         class="flex items-center gap-2 text-white text-[16px] border-b border-white hover:text-[#FF4F00]"><i
-                            class='bx bxs-phone text-[20px] sm:text-[24px] text-white'></i>+998910030951</a>
+                            class='bx bxs-phone text-[20px] sm:text-[24px] text-white'></i>+998975895369</a>
                 </div>
                 <div class="w-full grid gird-cols-1 sm:grid-cols-2 self-stretch gap-x-10 gap-y-10">
                     <div class="w-full bg-[#414141] rounded-lg p-5">
