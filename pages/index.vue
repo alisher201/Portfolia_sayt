@@ -22,7 +22,7 @@
                     <div class="flex flex-wrap items-center gap-5 mt-10 sm:mt-20">
                         <button
                             class="w-full sm:w-auto hover:bg-[#FF4F00] text-white text-[14px] sm:text-[18px] py-3 px-5 rounded-full border-2 border-[#FF4F00]"><a
-                                href="Resume.pdf" download="" class="flex items-center justify-center gap-2"><i
+                                href="a.pdf" download="" class="flex items-center justify-center gap-2"><i
                                     class='bx bxs-download text-[24px]'></i>Download Resume</a></button>
                         <button
                             class="w-full sm:w-auto bg-[#FF4F00] text-white text-[14px] sm:text-[18px] py-3 px-5 rounded-full border-2 border-[#FF4F00]"><a
