@@ -16,7 +16,7 @@
                     <p class="text-white text-[14px] sm:text-[18px]">I am a developer with experience in
                         building
                         websites
-                        for small and medium-sized businesses. I am full stack developer with ~ 5 months of experience
+                        for small and medium-sized businesses. I am full stack developer with ~ 6 months of experience
                         mainly working. I mostly use NestJs on the backend and use VueJs and NuxtJs equally on the Frontend.
                     </p>
                     <div class="flex flex-wrap items-center gap-5 mt-10 sm:mt-20">
