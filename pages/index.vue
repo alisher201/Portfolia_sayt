@@ -16,13 +16,13 @@
                     <p class="text-white text-[14px] sm:text-[18px]">I am a developer with experience in
                         building
                         websites
-                        for small and medium-sized businesses. I am full stack developer with ~ 1 years of experience
+                        for small and medium-sized businesses. I am full stack developer with ~ 5 months of experience
                         mainly working. I mostly use NestJs on the backend and use VueJs and NuxtJs equally on the Frontend.
                     </p>
                     <div class="flex flex-wrap items-center gap-5 mt-10 sm:mt-20">
                         <button
                             class="w-full sm:w-auto hover:bg-[#FF4F00] text-white text-[14px] sm:text-[18px] py-3 px-5 rounded-full border-2 border-[#FF4F00]"><a
-                                href="a.pdf" download="" class="flex items-center justify-center gap-2"><i
+                                href="alisher.pdf" download="" class="flex items-center justify-center gap-2"><i
                                     class='bx bxs-download text-[24px]'></i>Download Resume</a></button>
                         <button
                             class="w-full sm:w-auto bg-[#FF4F00] text-white text-[14px] sm:text-[18px] py-3 px-5 rounded-full border-2 border-[#FF4F00]"><a
